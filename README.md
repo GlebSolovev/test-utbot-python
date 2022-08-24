@@ -1,8 +1,15 @@
-# UTBot-Python testing
+# UTBot-Python Testing
 
-This repository contains the code for testing [UTBot-Python](https://github.com/UnitTestBot/UTBotJava/tree/utbot-python).
+This repository contains the code for testing [UTBot-Python](https://github.com/UnitTestBot/UTBotJava/tree/utbot-python)
+.
 Unfortunately, it has to be done manually: i.e. run the product on each file / project and check the quality of the
 result.
+
+## Test reports
+
+All test reports are located in the `test-reports` directory, structured by date. Inside the respective folder, one can
+find the file `TESTING_ENVIRONMENT.md` describing the information about the environment and options of UTBot-Python
+executions. The rest of the files contain a report on the test sections corresponding to their names.
 
 ## Synthetic examples
 
